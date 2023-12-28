@@ -12,18 +12,18 @@
 <!-- Skills Section -->
 ## 🛠 Skills
 
-#### Programming Languages
-<div align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="100" height="100"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="100" height="100"/> 
   
-#### Operating Systems 
-<img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png" alt="linux" title="linux" width="200" height="100"/> </span> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="100" height="100"/>
+<table>
+  <tr>
+    <td width="300"> <div align="center"> <p> <b> Programming Languages <b/> </p> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="100" height="100"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="100" height="100"/> 
+    <td width="300"> <div align="center"> <p> <b> Operating Systems <b/> </p> <img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png" alt="linux" title="linux" width="100" height="100"/> </span> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="100" height="100"/>
+    <td width="300"> <div align="center"> <p><b> Databases <b/><p/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="100" height="100"/>
+</table>
 
-#### Databases
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="100" height="100"/>
-  
-#### Build Tools 
-<p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="100" height="100"/>
-
+<table> 
+  <tr>
+    <td> <p> Build Tools <p/> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="100" height="100"/>
+<table/>
 #### Cloud Technologies
 <p align="left"><img src="https://www.pngkey.com/png/full/246-2467177_aws-logo-png-free-stock-aws-logo-png.png" width="100" height="100"/> 
 
@@ -52,6 +52,18 @@
 
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[Gmail ](ujwal5ghare@gmail.com)**
+
+
+
+<table>
+  <tr>
+    <td><div style="background-color:lightblue; width:200px; height:200px;"></div></td>
+    <td><div style="background-color:lightgreen; width:200px; height:200px;"></div></td>
+  </tr>
+</table>
+
+
+
 
 
 
