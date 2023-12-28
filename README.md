@@ -29,17 +29,14 @@
       <td width="200"> <div align="center"> <p> <b> Editor / IDE </b> </p> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="80" height="80"/> </p>
   </tr>     
 </table>
-
-<!-- Social Media Section -->
-## <p align="left"><img src="https://img.icons8.com/?size=80&id=lq7BYdxejdzR&format=png" alt="linux" title="linux" width="30" height="30"/> Profiles
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ujwal-pachghare)
-<br><br>
-
+<br>
+        
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 </p>
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ujwal-pachghare)
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[Gmail ](ujwal5ghare@gmail.com)**
 
