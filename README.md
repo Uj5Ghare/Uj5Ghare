@@ -30,19 +30,11 @@
   </tr>     
 </table>
 <br>
-        
+
+
+
 <!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
-</p>
-
+## <p align="left"><img src="https://img.icons8.com/?size=80&id=lq7BYdxejdzR&format=png" alt="linux" title="linux" width="30" height="30"/> Profiles
+  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ujwal-pachghare)
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **[Gmail ](ujwal5ghare@gmail.com)**
-
-
-
-
-
-
-
+[![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white,https://www.gmail.com)](https://gmail.com/)
