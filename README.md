@@ -36,5 +36,5 @@
 <!-- Contact Section -->
 ## <p align="left"><img src="https://img.icons8.com/?size=80&id=lq7BYdxejdzR&format=png" alt="linux" title="linux" width="30" height="30"/> Profiles
   
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ujwal-pachghare)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/)
 [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white,https://www.gmail.com)](https://gmail.com/)
