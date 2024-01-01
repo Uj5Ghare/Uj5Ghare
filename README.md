@@ -1,7 +1,8 @@
 
+              
 <!-- About Me Section -->
 
-<h1 align="center"><font face="Arial">Hi 👋, I'm <a href="www.linkedin.com/in/ujwal-pachghare"> Ujwal Pachghare </a></font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="ujwal-pachghare" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ujwal-pachghare?trk=profile-badge">Ujwal Pachghare</a></div></font></h1>
 <h3 align="center"><font face="Arial">I am deeply passionate about technology. With this passion, I have set a personal goal for myself to become a DevOps Engineer <img src="https://www.logolynx.com/images/logolynx/68/683f75d4c40a5b7c2f1ff598d2ed942b.png" alt="linux" title="linux" width="50" height"40"/></font></h3>
 <br><br>
 
