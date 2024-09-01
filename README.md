@@ -13,7 +13,7 @@
   <tr>
       <td width="200"> <div align="center"> <p> <b> Programming Languages <b/> </p> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="80" height="80"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="80" height="80"/> 
       <td width="200"> <div align="center"> <p> <b> Operating Systems <b/> </p> <img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png" alt="linux" title="linux" width="90" height="70"/> </span> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="70" height="70"/>
-      <td width="200"> <div align="center"> <p><b> Databases <b/><p/> <img src="https://th.bing.com/th/id/OIP.hOJyWoRi3LO0dAAS-zxs_wHaEK?w=1262&h=709&rs=1&pid=ImgDetMain" alt="mysql" title="mysql" width="80" height="80"/>
+      <td width="200"> <div align="center"> <p><b> Databases <b/><p/> <img src="https://www.svgrepo.com/show/342053/mysql.svg" alt="mysql" title="mysql" width="80" height="80"/>
       <td width="200"> <div align="center"> <p> <b> Build Tools </b> </p> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="80" height="80"/> 
   <tr/>
       
