@@ -48,5 +48,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uj5Ghare&theme=dark&background=000000)](https://github.com/Uj5Ghare)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Uj5Ghare&color=blueviolet&style=flat-square) 
+<img align="right" src="https://komarev.com/ghpvc/?username=Uj5Ghare&color=blueviolet&style=flat-square">
 
