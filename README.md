@@ -24,7 +24,7 @@
       
   <tr>
       <td width="200"> <div align="center"> <p> <b> WebServers </b> </p> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="80" height="80"/> <img src="https://th.bing.com/th/id/OIP.Scka1ZevAvbVx4BOlPBovgHaHa?w=198&h=198&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="apache2" title="apache2" width="80" height="80"/>
-      <td width="200"> <div align="center">  <p> <b> Project Management </b> </p> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="80" height="80"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="80" height="80"/>  
+      <td width="200"> <div align="center">  <p> <b> VCS/SCM </b> </p> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="80" height="80"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="80" height="80"/>  
       <td width="200"> <div align="center"> <p> <b> Editor / IDE </b> </p> <img src="https://th.bing.com/th/id/OIP.U0DqdiY8fB8E1_47Pu0C1wHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="jupyter notebook" title="jupyter notebook" width="80" height="80"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="70" height="70"/> <div align="center"> 
       <td width="200"> <div align="center"> <p> <b> Deployment </b> </p> <img src="https://miro.medium.com/v2/resize:fit:1200/1*T0hxgG1nckO7D6C6X2iHVg.png" alt="kubernetes" title="kubernetes" width="200" height="90"/>
   </tr>     
@@ -39,7 +39,7 @@
 [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white,https://www.gmail.com)](https://mail.google.com/mail/u/0/#sent?compose=CllgCJfmrJgCjTknpQWnQhSjskXfCwGPgfDwhcnqnkmSRWhflQzGhwsTnRwtNtXrqjpnBQSDTLq)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uj5Ghare&show_icons=true&locale=en&layout=compact" alt="Uj5Ghare2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uj5Ghare&show_icons=true&locale=en&layout=compact" alt="Uj5Ghare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Uj5Ghare&show_icons=true&locale=en" alt="Uj5Ghare" /></p>
 
