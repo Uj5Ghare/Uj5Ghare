@@ -1,11 +1,11 @@
 <!-- About Me Section -->
 
-<h1 align="center"><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"><font face="Arial">Hi 👋, I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="ujwal-pachghare" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ujwal-pachghare?trk=profile-badge">Ujwal Pachghare</a></div></font></h1>
+<h1 align="center"><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"><img align="center" alt="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Ujwal+Pachghare;Passionate+DevOps+Engineer;Always+Learning+Something+New"></h1>
 <h3 align="center"><font face="Arial">I am deeply passionate about technology. With this passion, I have set a personal goal for myself to become a DevOps Engineer <img src="https://www.logolynx.com/images/logolynx/68/683f75d4c40a5b7c2f1ff598d2ed942b.png" alt="linux" title="linux" width="50" height"40"/></font></h3>
 <br><br>
 
 <!-- Skills Section -->
-## 🛠 Skills
+## 🔧 Technologies & Tools
 
 <table>
   <tr>
@@ -33,14 +33,20 @@
 
 
 <!-- Contact Section -->
-## <p align="left"><img src="https://img.icons8.com/?size=80&id=lq7BYdxejdzR&format=png" alt="linux" title="linux" width="30" height="30"/> Profiles
+## 📫 Let's Connect!
   
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujwal-pachghare)
-[![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white,https://www.gmail.com)](https://mail.google.com/mail/u/0/#sent?compose=CllgCJfmrJgCjTknpQWnQhSjskXfCwGPgfDwhcnqnkmSRWhflQzGhwsTnRwtNtXrqjpnBQSDTLq)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ujwal-pachghare)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](ujwal5ghare@gmail.com)
 
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uj5Ghare&show_icons=true&locale=en&layout=compact" alt="Uj5Ghare" /></p>
+## 📈 GitHub Stats
+<!-- GitHub Statatics -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uj5Ghare&show_icons=true&locale=en&layout=compact&theme=radical&background=000000" alt="Uj5Ghare" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Uj5Ghare&show_icons=true&locale=en" alt="Uj5Ghare" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Uj5Ghare&show_icons=true&locale=en&theme=radical&background=000000" alt="Uj5Ghare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uj5Ghare&" alt="Uj5Ghare" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uj5Ghare&theme=dark&background=000000)](https://github.com/Uj5Ghare)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Uj5Ghare&color=blueviolet&style=flat-square) 
+
