@@ -1,7 +1,7 @@
 <!-- About Me Section -->
 
-<h1 align="center"><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"><img align="center" alt="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Ujwal+Pachghare;Passionate+DevOps+Engineer;Always+Learning+Something+New"></h1>
-<h3 align="center"><font face="Arial">I am deeply passionate about technology. With this passion, I have set a personal goal for myself to become a DevOps Engineer <img src="https://www.logolynx.com/images/logolynx/68/683f75d4c40a5b7c2f1ff598d2ed942b.png" alt="linux" title="linux" width="50" height"40"/></font></h3>
+<h1 align="center"><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"><img align="center" alt="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Ujwal;"></h1>
+<h3 align="center"><font face="Arial"> Cloud Cost Optimization Specialist, Kubernetes Troubleshooter & Performance Tuner, CI/CD Pipelines Security Hardening Expert and Full Stack Vibe Coder </font></h3>
 <br><br>
 
 <!-- Skills Section -->
@@ -19,7 +19,7 @@
       <td width="200"> <div align="center"> <p> <b> Cloud Technologies </b> </p> <img src="https://www.pngkey.com/png/full/246-2467177_aws-logo-png-free-stock-aws-logo-png.png" width="70" height="60"/> <img src="https://th.bing.com/th/id/OIP.AwYBo4ozW7Tyw0klywlo7wHaHa?w=180&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="80" height="`100"/> 
       <td width="200"> <div align="center"> <p> <b> IAC Tools </b> </p> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="70" height="70"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="70" height="70"/> 
       <td width="200"> <div align="center"> <p> <b> CI/CD Tools </b> </p> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="80" height="80"/> <img src="https://th.bing.com/th/id/OIP.U0W2_0CeAJChacOneQUmpQHaG1?w=184&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="gitlab ci" title="gitlab ci" width="70" height="70"/> <img src="https://th.bing.com/th/id/OIP.M0PvNHo83jWISFB_Jme3kQHaHa?w=154&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="github actions" title="github actions" width="70" height="70"/> 
-      <td width="200"> <div align="center"> <p> <b> Containerization </b> </p> <img src="https://th.bing.com/th/id/OIP.thT1QMWthIUwfkukg7FE5QHaEK?w=1280&h=720&rs=1&pid=ImgDetMain" alt="docker" title="docker" width="210" height="130"/> 
+      <td width="200"> <div align="center"> <p> <b> Virtualization </b> </p> <img src="https://img.icons8.com/?size=120&id=LdUzF8b5sz2R&format=png" alt="docker" title="docker" width="70" height="70"/> <img src="https://img.icons8.com/?size=96&id=38792&format=png" alt="docker" title="virtualbox" width="70" height="70"/>
   <tr/>
       
   <tr>
